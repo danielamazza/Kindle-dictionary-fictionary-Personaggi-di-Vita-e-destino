@@ -7,3 +7,6 @@ Il file dict.mobi è prodotto, tramite il programma a linea comando kindlegen (h
 
 Per utilizzare il dizionario: caricare il file dict.mobi su Kindle come un qualsiasi ebook (ad esempio inviandolo al proprio dispositivo tramite l'indirizzo email dedicato, vedi: https://www.amazon.it/gp/help/customer/display.html?nodeId=201974220).
 Mentre si legge "Vita e Destino", selezionare su Kindle il nome del personaggio di cui si vuole cercare la descrizione. Tra i dizionari disponibili, selezionare il "Personaggi di Vita e Destino" --> compare una breve descrizione del personaggio.
+
+Per la descrizione dei personaggi è stata presa come riferimento la pagina di Wikipedia https://it.wikipedia.org/wiki/Vita_e_destino#I_personaggi_del_romanzo
+
